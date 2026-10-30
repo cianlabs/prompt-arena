@@ -2,6 +2,10 @@
 
 Send one prompt to two LLM APIs, Grok (xAI) and Gemini (Google), and compare the answers side by side: the text, how long each took, how many tokens were used, and the estimated cost.
 
+## Where this fits
+
+![M2: LLM basics + one tool call, with the prompt-arena project](m2_graphic.png)
+
 ```
 Grok (grok-build-0.1)                       Gemini (gemini-3.5-flash-lite)
 ----------------------------------------    ----------------------------------------

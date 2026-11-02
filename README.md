@@ -83,3 +83,7 @@ Failures have names and plain-English messages instead of raw stack traces:
 - `MODEL_ERROR`: the provider returned an error (for example, "high demand").
 
 If one model fails, the other still shows its answer.
+
+## License
+
+Original project code and documentation are licensed under the [MIT License](LICENSE). This license does not relicense third-party incident reports, datasets, or other third-party material. Those materials remain subject to their original rights and terms; existing source links and attributions are retained.
